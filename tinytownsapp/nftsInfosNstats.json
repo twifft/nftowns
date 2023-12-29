@@ -1,0 +1,15 @@
+{
+    "nfts": {
+        "category": {
+            "type": {
+                "rarity": {
+                    "nftAddress": [
+                        "storageMaximum",
+                        "currentStorage",
+                        "level"
+                    ]
+                }
+            }
+        }
+    }
+}
