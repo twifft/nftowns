@@ -1,0 +1,22 @@
+.gameContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.centralTitle {
+    font-size: 65px;
+    text-align: center;
+    position: relative;
+}
+.mintNFTbutton {
+    margin: 10px;
+    display: flex;
+    position: relative;
+    
+}
+.mintNFTbuttonText {
+    font-size: 10px;
+    
+}

@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Inter", sans-serif;
+}
+
+a {
+  color: #84309c;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  color: #e7e8e8;
+  background: #070707;
+}
+
+
+.INDEXsNumberDisplay {
+  background-color: #f2f2f2;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  color: #333;
+  float: left;
+  font-size: 11px;
+  font-weight: bold;
+  margin-right: 10px;
+  padding: 10px;
+  text-align: center;
+  width: 150px;
+
+}
+.valueDisplays {
+    display: inline-block;
+}
+.playButtonMAIN {
+  background-color: #f2f2f2;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  color: #333;
+  float: inline-end;
+  font-size: 11px;
+  font-weight: bold;
+  margin-right: 10px;
+  padding: 4px;
+  text-align: center;
+  width: 150px;
+}
+
